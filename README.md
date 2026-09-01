@@ -1,16 +1,16 @@
-## Hi there 👋
+## Tech
 
-<!--
-**hachem-djefafla/hachem-djefafla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mobile**
+Flutter · Dart · Kotlin · Swift
 
-Here are some ideas to get you started:
+**Architecture**
+Riverpod · GoRouter · REST APIs · OAuth 2.0
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Platform & Services**
+Firebase · FCM · Deep Links · App Links · Universal Links
+
+**Security & Fintech**
+Secure Storage · Mobile Runtime Security · Payments · KYC
+
+**Engineering**
+Git · GitLab · CI/CD · Testing · Native Android/iOS Integration

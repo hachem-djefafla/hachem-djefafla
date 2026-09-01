@@ -101,21 +101,7 @@ final flow = PushPermissionFlow();
 
 ---
 
-## `> github_stats`
 
-<div align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=hachem-djefafla&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=hachem-djefafla&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-/>
-
-</div>
 
 ---
 

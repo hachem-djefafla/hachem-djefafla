@@ -107,12 +107,12 @@ final flow = PushPermissionFlow();
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"
+src="https://github-readme-stats.vercel.app/api?username=hachem-djefafla&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"
 />
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=hachem-djefafla&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
 />
 
 </div>
@@ -124,7 +124,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+src="https://raw.githubusercontent.com/hachem-djefafla/hachem-djefafla/output/github-contribution-grid-snake-dark.svg"
 alt="GitHub contribution snake"
 />
 

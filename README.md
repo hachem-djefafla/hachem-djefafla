@@ -91,6 +91,20 @@ Testing        Native Android / iOS Integration
   </a>
 </p>
 
+### 📦 [`invalidation_coordinator`](https://pub.dev/packages/invalidation_coordinator)
+
+> A pure Dart coordinator for coalescing keyed invalidations into serialized batches with trailing execution and graceful shutdown.
+
+<p>
+  <a href="https://pub.dev/packages/invalidation_coordinator">
+    <img src="https://img.shields.io/pub/v/invalidation_coordinator?style=for-the-badge&logo=dart&logoColor=white&labelColor=0D1117&color=1F6FEB" />
+  </a>
+  <a href="https://pub.dev/packages/invalidation_coordinator">
+    <img src="https://img.shields.io/badge/Dart-Package-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0D1117" />
+  </a>
+</p>
+
+
 ```dart
 final flow = PushPermissionFlow();
 

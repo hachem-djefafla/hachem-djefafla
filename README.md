@@ -1,140 +1,96 @@
+<!-- GitHub Profile README · Hachem Djefafla -->
+
 <div align="center">
+  <img width="100%" alt="Hachem Djefafla — Mobile Engineer" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0D1117,55:13233D,100:1F6FEB&amp;height=185&amp;section=header&amp;text=Hachem%20Djefafla&amp;fontSize=42&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Mobile%20Engineering%20%E2%80%A2%20Fintech%20%E2%80%A2%20Reliable%20Systems&amp;descSize=16&amp;descAlignY=64" />
 
-# Hachem Djefafla
+  <p><strong>Mobile Engineer</strong> · Flutter &amp; native mobile · Security-minded engineering · Open source</p>
 
-### Mobile Engineer • Fintech • Security • Open Source
-
-<p align="center">
-  <a href="https://github.com/hachem-djefafla">
-    <img src="https://img.shields.io/badge/GitHub-hachem--djefafla-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/hachem-djefafla/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hachem%20Djefafla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://pub.dev/publishers/your-publisher-if-any">
-    <img src="https://img.shields.io/badge/Pub.dev-Dart%20Packages-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  </a>
-</p>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+reliable+mobile+experiences;Flutter+%E2%80%A2+Dart+%E2%80%A2+Kotlin+%E2%80%A2+Swift;Fintech+%E2%80%A2+Security+%E2%80%A2+Open+Source"
-  alt="Typing SVG"
-/>
-
+  <a href="https://github.com/hachem-djefafla"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
+  <a href="https://pub.dev/packages/operation_recovery"><img alt="Dart packages" src="https://img.shields.io/badge/pub.dev-Dart%20packages-0175C2?style=flat-square&amp;logo=dart&amp;logoColor=white" /></a>
+  <img alt="Open source" src="https://img.shields.io/badge/Open%20source-Dart%20libraries-1F6FEB?style=flat-square&amp;logo=dart&amp;logoColor=white" />
 </div>
 
----
 
-## About me
+About
+I build reliable, secure mobile applications with Flutter and native Android/iOS technologies. My work sits at the intersection of fintech, mobile architecture, platform integration, and operational reliability.
 
-I’m a **Mobile Engineer** focused on building **secure, reliable, and scalable mobile applications**.
+Beyond applications, I build pure Dart libraries that turn difficult engineering problems—uncertain transactions, permission lifecycles, and asynchronous coordination—into predictable, testable components.
+Engineering toolkit
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Mobile &amp; languages</h3>
+      <img alt="Flutter, Dart, Kotlin, Swift, Java, C++, JavaScript and TypeScript" src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,java,cpp,js,ts&amp;perline=4&amp;theme=dark" />
+      <p><sub>Flutter · Dart · Kotlin · Swift · Java · C++<br>JavaScript · TypeScript · Objective-C</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ Platform &amp; services</h3>
+      <p>
+        <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" />
+        <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&amp;logo=android&amp;logoColor=black" />
+        <img alt="Apple" src="https://img.shields.io/badge/iOS-181717?style=flat-square&amp;logo=apple&amp;logoColor=white" />
+      </p>
+      <p><sub><b>Firebase:</b> Authentication · FCM · Firestore · Crashlytics · Analytics · Remote Config · App Check</sub></p>
+      <p><sub><b>Mobile platforms:</b> APNs · Google Play services · Android App Links · iOS Universal Links · Deep linking</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 Architecture &amp; security</h3>
+      <p><sub>Clean architecture · State machines · Riverpod · GoRouter · REST APIs · OAuth 2.0 · Secure storage · KYC flows · Payment reliability</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Engineering &amp; delivery</h3>
+      <p>
+        <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" />
+        <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&amp;logo=gitlab&amp;logoColor=white" />
+        <img alt="GitHub Actions" src="https://img.shields.io/badge/Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" />
+      </p>
+      <p><sub>CI/CD · Automated tests · Android Gradle · Xcode · Native integrations · Release engineering</sub></p>
+    </td>
+  </tr>
+</table>
 
-- Building with **Flutter** and native mobile technologies
-- Interested in **mobile architecture**, **platform integrations**, and **runtime reliability**
-- Working in **fintech**, **payments**, **KYC**, and **mobile security**
-- Publishing **open-source Dart packages** around real engineering problems
+Selected open source
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🛡️ <a href="https://github.com/hachem-djefafla/operation_recovery">operation_recovery</a></h3>
+      <strong>Recover the outcome. Never blindly retry the operation.</strong>
+      <p>A pure Dart library for uncertain backend operations: durable state, authoritative status reconciliation, and recovery after lost responses or process crashes—without automatic resubmission of uncertain business writes.</p>
+      <a href="https://pub.dev/packages/operation_recovery"><img alt="operation_recovery pub version" src="https://img.shields.io/pub/v/operation_recovery?style=flat-square&amp;label=pub.dev&amp;logo=dart&amp;logoColor=white&amp;color=1F6FEB" /></a>
+      <a href="https://github.com/hachem-djefafla/operation_recovery/actions/workflows/quality.yml"><img alt="Quality CI" src="https://github.com/hachem-djefafla/operation_recovery/actions/workflows/quality.yml/badge.svg" /></a>
+      <a href="https://github.com/hachem-djefafla/operation_recovery/actions/workflows/reliability.yml"><img alt="Reliability CI" src="https://github.com/hachem-djefafla/operation_recovery/actions/workflows/reliability.yml/badge.svg" /></a>
+      <p><sub>Pure Dart · Explicit uncertainty · Durable state · Reconciliation · Crash-recovery testing</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔔 <a href="https://pub.dev/packages/push_permission_flow">push_permission_flow</a></h3>
+      <p>A predictable, testable notification-permission state machine that separates in-app deferral, OS observations, and uncertain request outcomes.</p>
+      <a href="https://pub.dev/packages/push_permission_flow"><img alt="push_permission_flow pub version" src="https://img.shields.io/pub/v/push_permission_flow?style=flat-square&amp;label=pub.dev&amp;logo=dart&amp;logoColor=white&amp;color=1F6FEB" /></a>
+      <p><sub>Dart &amp; Flutter · Permissions · State machines</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔄 <a href="https://pub.dev/packages/invalidation_coordinator">invalidation_coordinator</a></h3>
+      <p>Coalesces keyed invalidations into serialized batches, with trailing execution, idle observation, and graceful shutdown.</p>
+      <a href="https://pub.dev/packages/invalidation_coordinator"><img alt="invalidation_coordinator pub version" src="https://img.shields.io/pub/v/invalidation_coordinator?style=flat-square&amp;label=pub.dev&amp;logo=dart&amp;logoColor=white&amp;color=1F6FEB" /></a>
+      <p><sub>Pure Dart · Async coordination · Testing</sub></p>
+    </td>
+  </tr>
+</table>
 
----
-
-## Tech stack
-
-### Mobile & Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift&theme=dark" />
-</p>
-
-### Architecture & Platform
-<p>
-  <img src="https://img.shields.io/badge/Riverpod-0D1117?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoRouter-0D1117?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth_2.0-0D1117?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep_Links-0D1117?style=for-the-badge&logo=linktree&logoColor=white" />
-  <img src="https://img.shields.io/badge/Universal_Links-0D1117?style=for-the-badge&logo=apple&logoColor=white" />
-</p>
-
-### Platform Services
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,git,gitlab&theme=dark" />
-</p>
-
-### Focus areas
-<p>
-  <img src="https://img.shields.io/badge/Fintech-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Payments-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/KYC-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Testing-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI%2FCD-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/State_Machines-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Crash_Recovery-1F6FEB?style=for-the-badge" />
-</p>
-
----
-
-## Featured open source
-
-### `operation_recovery`
-**Recover uncertain operations without unsafe retries.**
-
-A pure Dart library for recovering uncertain backend operations through **durable state**, **authoritative reconciliation**, and **crash-safe recovery**.
-
-<p>
-  <a href="https://pub.dev/packages/operation_recovery">
-    <img src="https://img.shields.io/pub/v/operation_recovery?style=for-the-badge&logo=dart&logoColor=white&label=pub.dev&color=1F6FEB" />
-  </a>
-  <a href="https://github.com/hachem-djefafla/operation_recovery">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-### `push_permission_flow`
-**A predictable, testable notification permission state machine for Dart and Flutter.**
-
-<p>
-  <a href="https://pub.dev/packages/push_permission_flow">
-    <img src="https://img.shields.io/pub/v/push_permission_flow?style=for-the-badge&logo=dart&logoColor=white&label=pub.dev&color=1F6FEB" />
-  </a>
-  <a href="https://pub.dev/packages/push_permission_flow">
-    <img src="https://img.shields.io/badge/Flutter-Package-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  </a>
-</p>
-
----
-
-### `invalidation_coordinator`
-**A pure Dart coordinator for coalescing keyed invalidations into serialized batches with trailing execution and graceful shutdown.**
-
-<p>
-  <a href="https://pub.dev/packages/invalidation_coordinator">
-    <img src="https://img.shields.io/pub/v/invalidation_coordinator?style=for-the-badge&logo=dart&logoColor=white&label=pub.dev&color=1F6FEB" />
-  </a>
-  <a href="https://pub.dev/packages/invalidation_coordinator">
-    <img src="https://img.shields.io/badge/Dart-Package-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  </a>
-</p>
-
----
-
-## GitHub activity
-
+GitHub activity
 <div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/hachem-djefafla/hachem-djefafla/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub contribution snake"
-/>
-
+  <img height="155" alt="GitHub activity stats" src="https://github-readme-stats.vercel.app/api?username=hachem-djefafla&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF&amp;rank_icon=github" />
+  <img height="155" alt="Most used repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hachem-djefafla&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9" />
 </div>
 
----
+<div align="center">
+  <img width="95%" alt="GitHub contribution animation" src="https://raw.githubusercontent.com/hachem-djefafla/hachem-djefafla/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
 
 <div align="center">
-
-### Build • Secure • Ship
-
-<sub>Always building something useful.</sub>
-
+  <sub><strong>BUILD WITH INTENTION · SHIP WITH CONFIDENCE</strong></sub>
 </div>

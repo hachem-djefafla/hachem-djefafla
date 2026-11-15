@@ -9,9 +9,6 @@
   <a href="https://pub.dev/packages/operation_recovery"><img alt="Dart packages" src="https://img.shields.io/badge/pub.dev-Dart%20packages-0175C2?style=flat-square&amp;logo=dart&amp;logoColor=white" /></a>
   <img alt="Open source" src="https://img.shields.io/badge/Open%20source-Dart%20libraries-1F6FEB?style=flat-square&amp;logo=dart&amp;logoColor=white" />
 </div>
-
-
-About
 I build reliable, secure mobile applications with Flutter and native Android/iOS technologies. My work sits at the intersection of fintech, mobile architecture, platform integration, and operational reliability.
 
 Beyond applications, I build pure Dart libraries that turn difficult engineering problems—uncertain transactions, permission lifecycles, and asynchronous coordination—into predictable, testable components.

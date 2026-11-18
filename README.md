@@ -3,7 +3,7 @@
 <div align="center">
   <img width="100%" alt="Hachem Djefafla — Mobile Engineer" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0D1117,55:13233D,100:1F6FEB&amp;height=185&amp;section=header&amp;text=Hachem%20Djefafla&amp;fontSize=42&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Mobile%20Engineering%20%E2%80%A2%20Fintech%20%E2%80%A2%20Reliable%20Systems&amp;descSize=16&amp;descAlignY=64" />
 
-  <p><strong>Mobile Engineer</strong> · Flutter &amp; native mobile · Security-minded engineering · Open source</p>
+  <p><strong>Senior Mobile Engineer</strong> · Flutter &amp; native mobile · Security-minded engineering · Open source</p>
 
   <a href="https://github.com/hachem-djefafla"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
   <a href="https://pub.dev/packages/operation_recovery"><img alt="Dart packages" src="https://img.shields.io/badge/pub.dev-Dart%20packages-0175C2?style=flat-square&amp;logo=dart&amp;logoColor=white" /></a>

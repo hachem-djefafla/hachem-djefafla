@@ -49,9 +49,10 @@ Engineering toolkit
 </table>
 
 Selected open source
+Selected open source
 <table>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/hachem-djefafla/operation_recovery">operation_recovery</a></h3>
       <strong>Recover the outcome. Never blindly retry the operation.</strong>
       <p>A pure Dart library for uncertain backend operations: durable state, authoritative status reconciliation, and recovery after lost responses or process crashes—without automatic resubmission of uncertain business writes.</p>
@@ -59,6 +60,13 @@ Selected open source
       <a href="https://github.com/hachem-djefafla/operation_recovery/actions/workflows/quality.yml"><img alt="Quality CI" src="https://github.com/hachem-djefafla/operation_recovery/actions/workflows/quality.yml/badge.svg" /></a>
       <a href="https://github.com/hachem-djefafla/operation_recovery/actions/workflows/reliability.yml"><img alt="Reliability CI" src="https://github.com/hachem-djefafla/operation_recovery/actions/workflows/reliability.yml/badge.svg" /></a>
       <p><sub>Pure Dart · Explicit uncertainty · Durable state · Reconciliation · Crash-recovery testing</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 <a href="https://github.com/hachem-djefafla/leak_radar_pro">leak_radar_pro</a></h3>
+      <strong>Detect memory and resource leaks before they reach production.</strong>
+      <p>Lightweight leak detection and lifecycle diagnostics for Dart &amp; Flutter—tracking undisposed controllers, streams, and retained references during development and testing.</p>
+      <a href="https://pub.dev/packages/leak_radar_pro"><img alt="leak_radar_pro pub version" src="https://img.shields.io/pub/v/leak_radar_pro?style=flat-square&amp;label=pub.dev&amp;logo=dart&amp;logoColor=white&amp;color=1F6FEB" /></a>
+      <p><sub>Dart &amp; Flutter · Memory diagnostics · Lifecycle tracking · Testing</sub></p>
     </td>
   </tr>
   <tr>

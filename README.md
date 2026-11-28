@@ -1,7 +1,7 @@
 <!-- GitHub Profile README · Hachem Djefafla -->
 
 <div align="center">
-  <img width="100%" alt="Hachem Djefafla — Mobile Engineer" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0D1117,55:13233D,100:1F6FEB&amp;height=185&amp;section=header&amp;text=Hachem%20Djefafla&amp;fontSize=42&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Mobile%20Engineering%20%E2%80%A2%20Fintech%20%E2%80%A2%20Reliable%20Systems&amp;descSize=16&amp;descAlignY=64" />
+  <img width="100%" alt="Hachem Djefafla — Mobile Lead Engineer" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0D1117,55:13233D,100:1F6FEB&amp;height=185&amp;section=header&amp;text=Hachem%20Djefafla&amp;fontSize=42&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Mobile%20Engineering%20%E2%80%A2%20Fintech%20%E2%80%A2%20Reliable%20Systems&amp;descSize=16&amp;descAlignY=64" />
 
   <p><strong>Senior Mobile Engineer</strong> · Flutter &amp; native mobile · Security-minded engineering · Open source</p>
 
